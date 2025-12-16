@@ -3,8 +3,8 @@ This repository contains a deep learning pipeline for binary flood image segment
 
 # Repository content
 This repository contains two files: 
-- 'U_net_segmenter_model.py', which defines the U-Net segmentation model and handles the loading and preprocessing of training images and masks.
-- 'classify_and_generate_submission_csv.py', which performs inference on test images generating binary segmentation masks, and produces a CSV file formatted for Kaggle submission.
+- `U_net_segmenter_model.py`, which defines the U-Net segmentation model and handles the loading and preprocessing of training images and masks.
+- `classify_and_generate_submission_csv.py`, which performs inference on test images generating binary segmentation masks, and produces a CSV file formatted for Kaggle submission.
 
 # Data
 The dataset used in this project is provided through a Kaggle competition and cannot be redistributed.
